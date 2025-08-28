@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">DuXck</string>
+    <string name="title">The DuXck</string>
+    <string name="welcome_text">Welcome to DuXck</string>
+    <string name="sub_Inst">Please Login with Your correct details</string>
+    <string name="hd_mail">Email Address</string>
+    <string name="hint_email">Enter your email</string>
+    <string name="hd_password">Password</string>
+    <string name="hint_password">Enter your Password</string>
+    <string name="cb_tilte">Remember me</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="btn_text_login">LOGIN</string>
+    <string name="or">OR</string>
+    <string name="create_account">Create Account</string>
+    <string name="please_fill_in_your_details">Please fill in your details</string>
+    <string name="hd_full_name">Full Name</string>
+    <string name="hint_full_name">Enter your full name</string>
+    <string name="hd_confirm_password">Confirm Password</string>
+    <string name="hint_re_enter">Re-enter your password</string>
+    <string name="cb_text">I agree to terms and conditions</string>
+    <string name="btn_sign_up">SIGN UP</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="login">Login</string>
+    <string name="hello_an_welocme_to_the_duxck">Hello...! an welocme to the DuXck</string>
+</resources>
